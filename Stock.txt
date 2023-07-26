@@ -1,0 +1,18 @@
+ID: 1   Name: Premium Sugar 1Kg Price: Ksh 545          Quantity: 100pcs
+ID: 2   Name: Tea Leaves 250g    Price:Ksh 145       Quantity: 145
+ID: 3   Name: Sunflower Premium Cooking oil  8x1.5ltr Carton    Price:ksh 1400per L     Quantity: 14
+ID: 4   Name: Sunrise Rice 5kg  Price:ksh 1520     Quantity: 14
+ID: 5   Name: Bread 600g   Price:Ksh 100       Quantity: 125
+ID: 6   Name: Yego Biscuit 1x24 Packs Price:Ksh 120      Quantity: 32
+ID: 7   Name: Hostess Maize flour 2kg    Price:Ksh 300      Quantity: 65
+ID: 8   Name: Dawaat Rice 2kg  Price:Ksh 870      Quantity: 42
+ID: 9   Name: Chakki Atta 10kg  Price: 820      Quantity: 67
+ID: 10  Name: Olive  Oil 1x5 ltr    Price:Ksh 1125     Quantity: 36
+ID: 11  Name: Delmonte 500ml       Price:Ksh 345      Quantity: 85
+ID: 12  Name: Strawberry Juice 1x24       Price:Ksh 690      Quantity: 5
+ID: 13  Name: Dairy Milk 250g Bar       Price:Ksh 146      Quantity: 55
+ID: 14  Name: Drinking Chocolate 250g      Price:Ksh 85       Quantity: 22
+ID: 15  Name: Redbull 1x12 Cans Price:Ksh 1400     Quantity: 36
+ID: 16  Name: Minute Maid 1l*45 Price :Ksh 167       Quantity: 100
+ID: 17  Name: BlueBand 2kg      Price:Ksh 450      Quantity: 4
+ID: 18  Name: Peanut Butter 2kg price:Ksh 420      Quantity: 65

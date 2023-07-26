@@ -1,0 +1,15 @@
+MANAGER'S-INFORMATION:
+
+E-mail: manager123@gmail.com
+Password: manager000123
+
+
+CASHIER'S-INFORMATION:
+E-mail: leederossi@gmail.com
+Password: Lee001765
+
+CASHIER'S LOGIN INFORMATION:
+E-mail: nicole168@gmail.com
+Password: Nicole002789
+
+
